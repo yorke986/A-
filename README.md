@@ -9,7 +9,8 @@ Masked MLP classification
 
 ## How to Use
 Upload NSL-KDD dataset to Drive
-Run all cells in Colab
+Run all cells in Colab 'https://colab.research.google.com/drive/1BYFG0J5e7OwBM9S2lSHFv1V87oKiLKUM?usp=sharing'
+or run all cells of file 'detection_system.py'
 View results
 
 ## License
